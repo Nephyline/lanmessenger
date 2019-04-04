@@ -6,7 +6,7 @@
     <message>
         <location filename="aboutdialog.ui" line="17"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Boîte de dialogue</translation>
     </message>
     <message>
         <location filename="aboutdialog.ui" line="40"/>
@@ -16,7 +16,7 @@
     <message>
         <location filename="aboutdialog.ui" line="47"/>
         <source>&lt;Application Title&gt;</source>
-        <translation></translation>
+        <translation>&lt;Titre de l'application&gt;</translation>
     </message>
     <message>
         <location filename="aboutdialog.ui" line="60"/>
@@ -31,7 +31,7 @@
     <message>
         <location filename="aboutdialog.ui" line="107"/>
         <source>Thanks</source>
-        <translation>Merci</translation>
+        <translation>Remerciements</translation>
     </message>
     <message>
         <location filename="aboutdialog.ui" line="136"/>
@@ -69,13 +69,13 @@
     <message>
         <location filename="broadcastwindow.ui" line="246"/>
         <source>Select None</source>
-        <translation>Sélectionnez Aucun</translation>
+        <translation>Déselectionner</translation>
     </message>
     <message>
         <location filename="broadcastwindow.ui" line="178"/>
         <location filename="broadcastwindow.ui" line="213"/>
         <source>Send To:</source>
-        <translation>Envoyer à:</translation>
+        <translation>Envoyer à :</translation>
     </message>
 </context>
 <context>
@@ -114,12 +114,12 @@
     <message>
         <location filename="filemodelview.cpp" line="79"/>
         <source>To: </source>
-        <translation>Pour: </translation>
+        <translation>Pour : </translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="79"/>
         <source>From: </source>
-        <translation>De: </translation>
+        <translation>De : </translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="103"/>
@@ -129,7 +129,7 @@
     <message>
         <location filename="filemodelview.cpp" line="106"/>
         <source>Canceled</source>
-        <translation>Annulée</translation>
+        <translation>Annulé</translation>
     </message>
     <message>
         <location filename="filemodelview.cpp" line="109"/>
@@ -165,7 +165,7 @@
     <message>
         <location filename="historywindow.ui" line="81"/>
         <source>Date</source>
-        <translation>Date de</translation>
+        <translation>Date</translation>
     </message>
     <message>
         <location filename="historywindow.ui" line="133"/>
@@ -188,7 +188,7 @@
     <message>
         <location filename="mainwindow.ui" line="124"/>
         <source>Username</source>
-        <translation></translation>
+        <translation>Identifiant</translation>
     </message>
     <message>
         <location filename="mainwindow.ui" line="168"/>
@@ -216,11 +216,11 @@
     <message>
         <location filename="settingsdialog.ui" line="17"/>
         <source>Dialog</source>
-        <translation></translation>
+        <translation>Boît de dialogue</translation>
     </message>
     <message>
         <source>Broadcast List:</source>
-        <translation type="obsolete">Diffusée liste:</translation>
+        <translation type="obsolete">Liste de diffusion :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1327"/>
@@ -246,7 +246,7 @@
     <message>
         <location filename="settingsdialog.ui" line="1428"/>
         <source>Multicast address:</source>
-        <translation>Adresse de multidiffusion:</translation>
+        <translation>Adresse de multidiffusion :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1789"/>
@@ -256,34 +256,34 @@
     <message>
         <location filename="settingsdialog.ui" line="1849"/>
         <source>Contacts List</source>
-        <translation>Liste de Contacts</translation>
+        <translation>Liste des contacts</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1857"/>
         <source>Contacts list view:</source>
-        <translation>Affichage de la liste Contacts:</translation>
+        <translation>Affichage de la liste des contacts :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1882"/>
         <source>Show status as tooltip</source>
-        <translation>Afficher l&apos;état comme info-bulle</translation>
+        <translation>Afficher l&apos;état en tant qu'info-bulle</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1948"/>
         <source>Send messages using:</source>
-        <translation>Clés pour l&apos;envoi d&apos;un message:</translation>
+        <translation>Envoyer un message en utilisant :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1973"/>
         <source>&lt;Enter&gt;</source>
         <oldsource>Enter</oldsource>
-        <translation></translation>
+        <translation>Entrée</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1980"/>
         <source>&lt;Cmd + Enter&gt;</source>
         <oldsource>Ctrl + Enter</oldsource>
-        <translation></translation>
+        <translation>Ctrl + Entrée</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="2041"/>
@@ -326,7 +326,7 @@
     <message>
         <location filename="settingsdialog.ui" line="154"/>
         <source>Start %1 on system startup</source>
-        <translation>Démarrer %1 au démarrage du système</translation>
+        <translation>Lancer %1 au démarrage du système</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="161"/>
@@ -336,32 +336,32 @@
     <message>
         <location filename="settingsdialog.ui" line="171"/>
         <source>System Tray</source>
-        <translation>System Tray</translation>
+        <translation>Barre d&apos;état</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="177"/>
         <source>Show system tray icon</source>
-        <translation>Afficher l&apos;icône de plateau de système</translation>
+        <translation>Afficher l&apos;icône dans la barre d&apos;état</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="184"/>
         <source>Minimize main window to system tray</source>
-        <translation>Réduire la fenêtre principale de plateau de système</translation>
+        <translation>Réduire la fenêtre principale dans la barre d&apos;état</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="191"/>
         <source>Single click on tray icon to open</source>
-        <translation>Simple clic sur l&apos;icône de l&apos;ouverture</translation>
+        <translation>Ouverture par simple clic sur l&apos;icône</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="198"/>
         <source>Show balloon notifications in tray</source>
-        <translation>Afficher les notifications ballon dans le bac</translation>
+        <translation>Afficher les notifications dans la barre d&apos;état</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="205"/>
         <source>Minimize main window using tray icon</source>
-        <translation>Réduire la fenêtre principale en utilisant l&apos;icône bac</translation>
+        <translation>Réduire la fenêtre principale en utilisant l&apos;icône de la barre d&apos;état</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="215"/>
@@ -371,7 +371,7 @@
     <message>
         <location filename="settingsdialog.ui" line="223"/>
         <source>Select language:</source>
-        <translation>Sélectionnez la langue:</translation>
+        <translation>Sélectionnez la langue :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="64"/>
@@ -382,27 +382,27 @@
     <message>
         <location filename="settingsdialog.ui" line="336"/>
         <source>Personal</source>
-        <translation>Personnels</translation>
+        <translation>Personnel</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="344"/>
         <source>User name as seen by contacts:</source>
-        <translation>Nom d&apos;utilisateur tel que vu par les contacts:</translation>
+        <translation>Nom d&apos;utilisateur tel que vu par les contacts :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="373"/>
         <source>First Name:</source>
-        <translation>Prénom:</translation>
+        <translation>Prénom :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="403"/>
         <source>Last Name:</source>
-        <translation>Nom de famille:</translation>
+        <translation>Nom de famille :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="419"/>
         <source>About:</source>
-        <translation>A propos de:</translation>
+        <translation>À propos de :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="447"/>
@@ -439,31 +439,31 @@
     <message>
         <location filename="settingsdialog.ui" line="612"/>
         <source>Add time stamp to instant messages</source>
-        <translation>Ajouter horodatage des messages instantanés</translation>
+        <translation>Ajouter l$apos;horodatage des messages instantanés</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="637"/>
         <source>Show date in time stamp</source>
-        <translation>Afficher la date en temps Stamo</translation>
+        <translation>Afficher la date en horodatage</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="548"/>
         <source>Set incoming messages foreground</source>
-        <translation>Réglez entrants plan messages</translation>
+        <translation>Afficher les messages entrants au premier plan</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="555"/>
         <source>Minimize incoming messages to taskbar</source>
-        <translation>Minimiser les messages entrants à la barre des tâches</translation>
+        <translation>Minimiser les messages entrants dans la barre des tâches</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="697"/>
         <source>Message Font</source>
-        <translation>Font message</translation>
+        <translation>Police des messages</translation>
     </message>
     <message>
         <source>Preview:</source>
-        <translation type="obsolete">Aperçu:</translation>
+        <translation type="obsolete">Aperçu :</translation>
     </message>
     <message>
         <source>Small size</source>
@@ -471,7 +471,7 @@
     </message>
     <message>
         <source>Medium size</source>
-        <translation type="obsolete">La taille moyenne</translation>
+        <translation type="obsolete">Taille moyenne</translation>
     </message>
     <message>
         <source>Large size</source>
@@ -481,7 +481,7 @@
         <location filename="settingsdialog.ui" line="74"/>
         <location filename="settingsdialog.ui" line="826"/>
         <source>History</source>
-        <translation>Histoire</translation>
+        <translation>Historique</translation>
     </message>
     <message>
         <source>Themes</source>
@@ -500,7 +500,7 @@
     <message>
         <location filename="settingsdialog.ui" line="753"/>
         <source>Incoming message text size:</source>
-        <translation>Taille du texte du message entrant:</translation>
+        <translation>Taille du texte du message entrant :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="833"/>
@@ -525,7 +525,7 @@
     <message>
         <location filename="settingsdialog.ui" line="879"/>
         <source>System default location</source>
-        <translation>Emplacement par défaut du système</translation>
+        <translation>Emplacement par défaut</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="886"/>
@@ -542,12 +542,12 @@
     <message>
         <location filename="settingsdialog.ui" line="936"/>
         <source>File Transfer History</source>
-        <translation>Histoire de transfert de fichiers</translation>
+        <translation>Historique des transfert de fichiers</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="942"/>
         <source>Keep a history of file transfers</source>
-        <translation>Gardez une histoire de transferts de fichiers</translation>
+        <translation>Gardez un historique des transferts de fichiers</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="951"/>
@@ -568,7 +568,7 @@
     <message>
         <location filename="settingsdialog.ui" line="1027"/>
         <source>Display status alerts</source>
-        <translation>Affichage des alertes d&apos;état</translation>
+        <translation>Afficher les alertes d&apos;état</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1034"/>
@@ -588,22 +588,22 @@
     <message>
         <location filename="settingsdialog.ui" line="1057"/>
         <source>Provide feedback with sounds</source>
-        <translation>Fournir une rétroaction aux sons</translation>
+        <translation>Activer les sons sur les actions</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1168"/>
         <source>Suspend sounds when my status is Busy</source>
-        <translation>Suspendre des sons lorsque mon statut est Occupé</translation>
+        <translation>Suspendre les sons lorsque mon statut est Occupé</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1175"/>
         <source>Suspend sound when my status is Do Not Disturb</source>
-        <translation>Suspendre des sons lorsque mon statut est Ne pas déranger</translation>
+        <translation>Suspendre les sons lorsque mon statut est Ne pas déranger</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1084"/>
         <source>Play sounds for these events:</source>
-        <translation>Jouer les sons de ces événements:</translation>
+        <translation>Jouer les sons de ces évènements :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="84"/>
@@ -614,7 +614,7 @@
     <message>
         <location filename="settingsdialog.ui" line="580"/>
         <source>Apply to public messages</source>
-        <oldsource>Apply  to public messages</oldsource>
+        <oldsource>Apply to public messages</oldsource>
         <translation>Appliquer aux messages publics</translation>
     </message>
     <message>
@@ -625,22 +625,22 @@
     <message>
         <location filename="settingsdialog.ui" line="671"/>
         <source>Convert network paths to links</source>
-        <translation>Montrer les chemins de réseau comme liens</translation>
+        <translation>Montrer les chemins de réseau comme des liens</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="680"/>
         <source>Remove whitespace from start and end of messages</source>
-        <translation>Retirez les espaces du début et de fin des messages</translation>
+        <translation>Retirez les espaces au début et à la fin des messages</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="687"/>
         <source>Clear messages when window is closed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nettoyer les messages à la fermeture de la fenêtre</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1155"/>
         <source>Reset All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tout réinitialiser</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1230"/>
@@ -650,7 +650,7 @@
     <message>
         <location filename="settingsdialog.ui" line="1238"/>
         <source>Connection timeout (seconds):</source>
-        <translation>Délai de connexion (en secondes):</translation>
+        <translation>Délai de connexion (en secondes) :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1272"/>
@@ -666,7 +666,7 @@
     <message>
         <location filename="settingsdialog.ui" line="1313"/>
         <source>Broadcast list:</source>
-        <translation>Diffusée liste:</translation>
+        <translation>Liste de diffusion :</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1471"/>
@@ -687,12 +687,12 @@
         <location filename="settingsdialog.ui" line="89"/>
         <location filename="settingsdialog.ui" line="1603"/>
         <source>File Transfer</source>
-        <translation>Transferts de fichiers</translation>
+        <translation>Transfert de fichiers</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1610"/>
         <source>Incoming File Request</source>
-        <translation>Demander fichier entrant</translation>
+        <translation>Requête de fichier entrant</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1648"/>
@@ -702,7 +702,7 @@
     <message>
         <location filename="settingsdialog.ui" line="1675"/>
         <source>Minimize window to taskbar</source>
-        <translation>Réduire la fenêtre de la barre des tâches</translation>
+        <translation>Réduire la fenêtre dans la barre des tâches</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1616"/>
@@ -717,7 +717,7 @@
     <message>
         <location filename="settingsdialog.ui" line="1687"/>
         <source>Store Received Files in this Folder</source>
-        <translation>Magasin a reçu fichiers de ce dossier</translation>
+        <translation>Stocker les fichiers dans ce dossier</translation>
     </message>
     <message>
         <location filename="settingsdialog.ui" line="1719"/>
@@ -769,11 +769,11 @@
     </message>
     <message>
         <source>First Name:</source>
-        <translation type="obsolete">Prénom:</translation>
+        <translation type="obsolete">Prénom :</translation>
     </message>
     <message>
         <source>Last Name:</source>
-        <translation type="obsolete">Nom de famille:</translation>
+        <translation type="obsolete">Nom de famille :</translation>
     </message>
     <message>
         <source>N/A</source>
@@ -781,31 +781,31 @@
     </message>
     <message>
         <source>About:</source>
-        <translation type="obsolete">A propos de:</translation>
+        <translation type="obsolete">À propos de :</translation>
     </message>
     <message>
         <source>System Information</source>
-        <translation type="obsolete">Système d&apos;information</translation>
+        <translation type="obsolete">Informations système</translation>
     </message>
     <message>
         <source>Operating System:</source>
-        <translation type="obsolete">Système d&apos;exploitation:</translation>
+        <translation type="obsolete">Système d&apos;exploitation :</translation>
     </message>
     <message>
         <source>IP Address:</source>
-        <translation type="obsolete">Adresse IP:</translation>
+        <translation type="obsolete">Adresse IP :</translation>
     </message>
     <message>
         <source>Messenger Version:</source>
-        <translation type="obsolete">Version Messenger:</translation>
+        <translation type="obsolete">Version Messenger :</translation>
     </message>
     <message>
         <source>Computer Name:</source>
-        <translation type="obsolete">Nom de l&apos;ordinateur:</translation>
+        <translation type="obsolete">Nom de l&apos;ordinateur :</translation>
     </message>
     <message>
         <source>Logon Name:</source>
-        <translation type="obsolete">Nom de connexion:</translation>
+        <translation type="obsolete">Nom de connexion :</translation>
     </message>
     <message>
         <source>Close</source>
@@ -827,7 +827,7 @@
     <message>
         <location filename="userinfowindow.ui" line="43"/>
         <source>&lt;User Name&gt;</source>
-        <translation></translation>
+        <translation>&lt;Identifiant&gt;</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="50"/>
@@ -842,7 +842,7 @@
     <message>
         <location filename="userinfowindow.ui" line="94"/>
         <source>First Name:</source>
-        <translation>Prénom:</translation>
+        <translation>Prénom :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="101"/>
@@ -854,32 +854,32 @@
     <message>
         <location filename="userinfowindow.ui" line="115"/>
         <source>Last Name:</source>
-        <translation>Nom de famille:</translation>
+        <translation>Nom de famille :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="138"/>
         <source>About:</source>
-        <translation>A propos de:</translation>
+        <translation>À propos de :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="170"/>
         <source>System Information</source>
-        <translation>Système d&apos;information</translation>
+        <translation>Information système</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="176"/>
         <source>IP Address:</source>
-        <translation>Adresse IP:</translation>
+        <translation>Adresse IP :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="186"/>
         <source>&lt;IP Address&gt;</source>
-        <translation></translation>
+        <translation>&lt;Addresse IP&gt;</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="193"/>
         <source>Logon Name:</source>
-        <translation>Nom de connexion:</translation>
+        <translation>Nom de connexion :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="203"/>
@@ -889,7 +889,7 @@
     <message>
         <location filename="userinfowindow.ui" line="210"/>
         <source>Computer Name:</source>
-        <translation>Nom de l&apos;ordinateur:</translation>
+        <translation>Nom de l&apos;ordinateur :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="220"/>
@@ -899,7 +899,7 @@
     <message>
         <location filename="userinfowindow.ui" line="227"/>
         <source>Operating System:</source>
-        <translation>Système d&apos;exploitation:</translation>
+        <translation>Système d&apos;exploitation :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="237"/>
@@ -909,7 +909,7 @@
     <message>
         <location filename="userinfowindow.ui" line="244"/>
         <source>Messenger Version:</source>
-        <translation>Version Messenger:</translation>
+        <translation>Version Messenger :</translation>
     </message>
     <message>
         <location filename="userinfowindow.ui" line="254"/>
@@ -978,12 +978,12 @@
     <message>
         <location filename="broadcastwindow.cpp" line="340"/>
         <source>Please select at least one recipient to send a broadcast.</source>
-        <translation>S&apos;il vous plaît sélectionner au moins un destinataire pour envoyer une diffusion.</translation>
+        <translation>Sélectionner au moins un destinataire pour envoyer un message de diffusion.</translation>
     </message>
     <message>
         <location filename="broadcastwindow.cpp" line="362"/>
         <source>You are no longer connected. Broadcast message cannot be sent.</source>
-        <translation>Vous n&apos;êtes plus connecté. Message de diffusion ne peut pas être envoyé.</translation>
+        <translation>Vous n&apos;êtes plus connecté. Le message de diffusion ne peut pas être envoyé.</translation>
     </message>
 </context>
 <context>
@@ -996,7 +996,7 @@
     <message>
         <location filename="chatroomwindow.cpp" line="300"/>
         <source>%1 says...</source>
-        <translation>%1 dit ...</translation>
+        <translation>%1 dit...</translation>
     </message>
     <message>
         <location filename="chatroomwindow.cpp" line="465"/>
@@ -1011,7 +1011,7 @@
     <message>
         <location filename="chatroomwindow.cpp" line="480"/>
         <source>Save Conversation</source>
-        <translation>Enregistrer Conversation</translation>
+        <translation>Enregistrer la conversation</translation>
     </message>
     <message>
         <location filename="chatroomwindow.cpp" line="619"/>
@@ -1031,7 +1031,7 @@
     <message>
         <location filename="chatroomwindow.cpp" line="623"/>
         <source>Get &amp;Information</source>
-        <translation>Obtenez de l&apos;&amp;information</translation>
+        <translation>Obtenez l&apos;&amp;information</translation>
     </message>
     <message>
         <location filename="chatroomwindow.cpp" line="624"/>
@@ -1072,7 +1072,7 @@
         <location filename="chatroomwindow.cpp" line="633"/>
         <source>&amp;Add Contacts...</source>
         <oldsource>&amp;Add A Contact...</oldsource>
-        <translation>&amp;Ajouter des Contacts...</translation>
+        <translation>&amp;Ajouter des contacts...</translation>
     </message>
     <message>
         <location filename="chatroomwindow.cpp" line="634"/>
@@ -1109,7 +1109,7 @@
     <message>
         <location filename="chatwindow.cpp" line="227"/>
         <source>%1 sends a folder...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 envoie un dossier...</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="530"/>
@@ -1124,22 +1124,22 @@
     <message>
         <location filename="chatwindow.cpp" line="532"/>
         <source>Send A Fol&amp;der...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Envoyer un dossier...</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="533"/>
         <source>&amp;Save As...</source>
-        <translation>&amp;Enregistrer sous ...</translation>
+        <translation>&amp;Enregistrer sous...</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="534"/>
         <source>&amp;History</source>
-        <translation>&amp;Histoire</translation>
+        <translation>&amp;Historique</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="535"/>
         <source>File &amp;Transfers</source>
-        <translation>&amp;Transferts de fichiers </translation>
+        <translation>&amp;Transferts de fichiers</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="537"/>
@@ -1149,7 +1149,7 @@
     <message>
         <location filename="chatwindow.cpp" line="539"/>
         <source>Send a folder to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Envoyer un dossier à %1</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="542"/>
@@ -1164,7 +1164,7 @@
     <message>
         <location filename="chatwindow.cpp" line="544"/>
         <source>View File Transfers</source>
-        <translation>Voir transferts de fichiers</translation>
+        <translation>Voir les fichiers transférés</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="545"/>
@@ -1196,12 +1196,12 @@
     </message>
     <message>
         <source>Canceled</source>
-        <translation type="obsolete">AnnuléeAnnulée</translation>
+        <translation type="obsolete">Annulée</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="380"/>
         <source>Select Font</source>
-        <translation>Sélectionnez Police</translation>
+        <translation>Sélectionnez la police</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="386"/>
@@ -1211,7 +1211,7 @@
     <message>
         <location filename="chatwindow.cpp" line="413"/>
         <source>Save Conversation</source>
-        <translation>Enregistrer Conversation</translation>
+        <translation>Enregistrer la conversation</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="152"/>
@@ -1221,7 +1221,7 @@
     <message>
         <location filename="chatwindow.cpp" line="174"/>
         <source>%1 says...</source>
-        <translation>%1 dit ...</translation>
+        <translation>%1 dit...</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="182"/>
@@ -1231,15 +1231,15 @@
     <message>
         <location filename="chatwindow.cpp" line="225"/>
         <source>%1 sends a file...</source>
-        <translation>%1 envoyer un fichier ...</translation>
+        <translation>%1 envoie un fichier ...</translation>
     </message>
     <message>
         <source>Accepted</source>
-        <translation type="obsolete">Acceptés</translation>
+        <translation type="obsolete">Accepté</translation>
     </message>
     <message>
         <source>Declined</source>
-        <translation type="obsolete">Refusée</translation>
+        <translation type="obsolete">Refusé</translation>
     </message>
     <message>
         <source>Broadcast message from %1:</source>
@@ -1263,7 +1263,7 @@
     </message>
     <message>
         <source>%1 is sending you a file:</source>
-        <translation type="obsolete">%1 est de vous envoyer un fichier:</translation>
+        <translation type="obsolete">%1 vous envoie un fichier :</translation>
     </message>
     <message>
         <source>File has been accepted automatically.</source>
@@ -1271,7 +1271,7 @@
     </message>
     <message>
         <source>%1 sends you a file:</source>
-        <translation type="obsolete">%1 vous envoie un fichier:</translation>
+        <translation type="obsolete">%1 vous envoie un fichier :</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -1279,7 +1279,7 @@
     </message>
     <message>
         <source>Decline</source>
-        <translation type="obsolete">Recul</translation>
+        <translation type="obsolete">Refuser</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="658"/>
@@ -1299,7 +1299,7 @@
     <message>
         <location filename="chatwindow.cpp" line="669"/>
         <source>%1 is busy. You may be interrupting.</source>
-        <translation>%1 est occupé. Vous pouvez être interrompu.</translation>
+        <translation>%1 est occupé. Vous pouvez l'interrompre.</translation>
     </message>
     <message>
         <location filename="chatwindow.cpp" line="693"/>
@@ -1314,7 +1314,9 @@
         <source>Preferences could not be imported from &apos;%1&apos;.
 
 File may not exist, or may not be compatible with this version of %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Les préférences n&apos;ont pas pu être importées depuis &apos;%1&apos;.
+        
+Le fichier n&aposexiste peut-être plus ou n'est peut-être pas compatible avec cette version de %2.</translation>
     </message>
     <message>
         <location filename="lmc.cpp" line="156"/>
@@ -1325,7 +1327,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="lmc.cpp" line="969"/>
         <source>A port address conflict has been detected. %1 will close now.</source>
-        <translation>Un conflit d&apos;adresse de port a été détecté. %1 sera fermée aujourd&apos;hui.</translation>
+        <translation>Un conflit d&apos;adresse de port a été détecté. %1 va maintenant fermer.</translation>
     </message>
     <message>
         <location filename="lmc.cpp" line="971"/>
@@ -1393,7 +1395,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="mainwindow.cpp" line="443"/>
         <source>Select avatar picture</source>
-        <translation>Sélectionnez avatar</translation>
+        <translation>Sélectionnez votre avatar</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="564"/>
@@ -1409,7 +1411,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
         <location filename="mainwindow.cpp" line="570"/>
         <location filename="mainwindow.cpp" line="603"/>
         <source>A group named &apos;%1&apos; already exists. Please enter a different name.</source>
-        <translation>Un groupe nommé &apos;%1&apos; existe déjà. S&apos;il vous plaît entrer un nom différent.</translation>
+        <translation>Un groupe nommé &apos;%1&apos; existe déjà. Veuillez entrer un nom différent.</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="596"/>
@@ -1430,28 +1432,28 @@ File may not exist, or may not be compatible with this version of %2.</source>
         <location filename="mainwindow.cpp" line="842"/>
         <location filename="mainwindow.cpp" line="876"/>
         <source>&amp;New Chat Room</source>
-        <translation>&amp;Nouveau Chat Room</translation>
+        <translation>&amp;Nouveau salon de discussion</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="844"/>
         <source>&amp;Refresh Contacts List</source>
-        <translation>&amp;Rafraîchir la liste de contacts</translation>
+        <translation>&amp;Rafraîchir la liste des contacts</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="843"/>
         <location filename="mainwindow.cpp" line="877"/>
         <source>&amp;Public Chat</source>
-        <translation>Conversation &amp;Publique</translation>
+        <translation>Discussion &amp;publique</translation>
     </message>
     <message>
         <source>New Chat Room</source>
-        <translation type="obsolete">Nouveau Chat Room</translation>
+        <translation type="obsolete">Nouveau salon de discussion</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="845"/>
         <location filename="mainwindow.cpp" line="863"/>
         <source>E&amp;xit</source>
-        <translation>&amp;Sortir </translation>
+        <translation>&amp;Quitter </translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="846"/>
@@ -1462,7 +1464,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
         <location filename="mainwindow.cpp" line="847"/>
         <location filename="mainwindow.cpp" line="859"/>
         <source>&amp;History</source>
-        <translation>&amp;Histoire</translation>
+        <translation>&amp;Historique</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="848"/>
@@ -1496,7 +1498,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
         <location filename="mainwindow.cpp" line="855"/>
         <location filename="mainwindow.cpp" line="862"/>
         <source>&amp;About</source>
-        <translation>&amp;A propos</translation>
+        <translation>&amp;À propos</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="856"/>
@@ -1521,7 +1523,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="mainwindow.cpp" line="866"/>
         <source>&amp;Delete This Group</source>
-        <translation>&amp;Supprimer Ce groupe</translation>
+        <translation>&amp;Supprimer ce groupe</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="867"/>
@@ -1544,12 +1546,12 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="mainwindow.cpp" line="870"/>
         <source>Send Fol&amp;der</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Envoyer un dossier</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="871"/>
         <source>Get &amp;Information</source>
-        <translation>Obtenez de l&apos;&amp;information</translation>
+        <translation>Obtenez les&amp;information</translation>
     </message>
     <message>
         <location filename="mainwindow.cpp" line="872"/>
@@ -1567,12 +1569,12 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="messagelog.cpp" line="472"/>
         <source>Broadcast message from %1:</source>
-        <translation>Message de diffusion de %1:</translation>
+        <translation>Message de diffusion de %1 :</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="155"/>
         <source>This message was not delivered to %1:</source>
-        <translation>Ce message n&apos;a pas été remis à %1:</translation>
+        <translation>Ce message n&apos;a pas été remis à %1 :</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="168"/>
@@ -1592,17 +1594,17 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="messagelog.cpp" line="630"/>
         <source>%1 is sending you a file:</source>
-        <translation>%1 est de vous envoyer un fichier:</translation>
+        <translation>%1 vous envoie un fichier :</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="632"/>
         <source>%1 is sending you a folder:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 vous envoie un dossier</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="639"/>
         <source>%1 sends you a file:</source>
-        <translation>%1 vous envoie un fichier:</translation>
+        <translation>%1 vous envoie un fichier :</translation>
     </message>
     <message>
         <source>File has been accepted automatically.</source>
@@ -1616,13 +1618,13 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="messagelog.cpp" line="660"/>
         <source>Decline</source>
-        <translation>Recul</translation>
+        <translation>Refuser</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="654"/>
         <location filename="messagelog.cpp" line="711"/>
         <source>Accepted</source>
-        <translation>Acceptés</translation>
+        <translation>Accepté</translation>
     </message>
     <message>
         <source>You have accepted the file.</source>
@@ -1631,7 +1633,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="messagelog.cpp" line="714"/>
         <source>Declined</source>
-        <translation>Refusée</translation>
+        <translation>Refusé</translation>
     </message>
     <message>
         <source>You have declined the file.</source>
@@ -1640,12 +1642,12 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="messagelog.cpp" line="641"/>
         <source>%1 sends you a folder:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 vous envoie un dossier :</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="717"/>
         <source>Canceled</source>
-        <translation>Annulée</translation>
+        <translation>Annulé</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="721"/>
@@ -1660,12 +1662,12 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="messagelog.cpp" line="738"/>
         <source>%1 is typing...</source>
-        <translation>%1 est tapant...</translation>
+        <translation>%1 est en train d'écrire...</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="741"/>
         <source>%1 has entered text</source>
-        <translation>%1 est entré le texte</translation>
+        <translation>%1 a saisi du texte</translation>
     </message>
     <message>
         <location filename="messagelog.cpp" line="755"/>
@@ -1685,7 +1687,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="messagelog.cpp" line="878"/>
         <source>Select &amp;All</source>
-        <translation>Sélectionner &amp;Tout</translation>
+        <translation>Tout &amp;Sélectionner</translation>
     </message>
 </context>
 <context>
@@ -1707,7 +1709,7 @@ File may not exist, or may not be compatible with this version of %2.</source>
     <message>
         <location filename="settingsdialog.cpp" line="233"/>
         <source>Select Font</source>
-        <translation>Sélectionnez Police</translation>
+        <translation>Sélectionnez la police</translation>
     </message>
     <message>
         <location filename="settingsdialog.cpp" line="239"/>
@@ -1728,12 +1730,12 @@ Désirez-vous vraiment continuer?</translation>
     <message>
         <location filename="settingsdialog.cpp" line="351"/>
         <source>&lt;File Not Found&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;Fichier non trouvé&gt;</translation>
     </message>
     <message>
         <location filename="settingsdialog.cpp" line="365"/>
         <source>Select sound</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sélectionner un son</translation>
     </message>
     <message>
         <location filename="settingsdialog.cpp" line="393"/>
@@ -1743,7 +1745,7 @@ Désirez-vous vraiment continuer?</translation>
     <message>
         <location filename="settingsdialog.cpp" line="401"/>
         <source>System Tray (Not Available)</source>
-        <translation>System Tray (Non disponible)</translation>
+        <translation>Barre d'état (Non disponible)</translation>
     </message>
     <message>
         <location filename="settingsdialog.cpp" line="405"/>
@@ -1774,8 +1776,8 @@ Désirez-vous vraiment continuer?</translation>
 intra-network communication and does not require a server.
 LAN Messenger works on essentially every popular desktop platform.</source>
         <translation>LAN Messenger est une application gratuite de messagerie peer-to-peer pour
-les échanges intra-réseau de communication et ne nécessite pas un serveur.
-LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau populaire.</translation>
+les échanges intra-réseau de communication et ne nécessite pas de serveur.
+LAN Messenger fonctionne sur les plate-formes les plus populaires.</translation>
     </message>
     <message>
         <location filename="strings.cpp" line="69"/>
@@ -1795,7 +1797,7 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="strings.cpp" line="77"/>
         <source>Large text</source>
-        <translation>Texte grand</translation>
+        <translation>Grand texte</translation>
     </message>
     <message>
         <location filename="strings.cpp" line="84"/>
@@ -1805,7 +1807,7 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="strings.cpp" line="85"/>
         <source>Busy</source>
-        <translation>Occupés</translation>
+        <translation>Occupé</translation>
     </message>
     <message>
         <location filename="strings.cpp" line="86"/>
@@ -1815,12 +1817,12 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="strings.cpp" line="87"/>
         <source>Be Right Back</source>
-        <translation>De retour dans</translation>
+        <translation>Revient dans un instant</translation>
     </message>
     <message>
         <location filename="strings.cpp" line="88"/>
         <source>Away</source>
-        <translation>Suite</translation>
+        <translation>Absent</translation>
     </message>
     <message>
         <location filename="strings.cpp" line="89"/>
@@ -1850,12 +1852,12 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="strings.cpp" line="100"/>
         <source>File transfer completed</source>
-        <translation>Transfert de fichiers est terminée</translation>
+        <translation>Le transfert de fichiers est terminé</translation>
     </message>
     <message>
         <location filename="strings.cpp" line="101"/>
         <source>Incoming public message</source>
-        <translation>Entrant message publique</translation>
+        <translation>Message publique entrant</translation>
     </message>
     <message>
         <location filename="strings.cpp" line="108"/>
@@ -1905,7 +1907,7 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="strings.cpp" line="123"/>
         <source>Compact</source>
-        <translation>Compacte</translation>
+        <translation>Compact</translation>
     </message>
 </context>
 <context>
@@ -1919,12 +1921,12 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
         <location filename="transferwindow.cpp" line="179"/>
         <location filename="transferwindow.cpp" line="194"/>
         <source>File Transfer Completed</source>
-        <translation>File Transfer Terminé</translation>
+        <translation>Transfert de fichier terminé</translation>
     </message>
     <message>
         <location filename="transferwindow.cpp" line="192"/>
         <source>&apos;%1&apos; has been received from %2.</source>
-        <translation>%1&apos; n&apos;a été reçue de %2.</translation>
+        <translation>%1&apos; reçu de %2.</translation>
     </message>
     <message>
         <location filename="transferwindow.cpp" line="316"/>
@@ -1939,7 +1941,7 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="transferwindow.cpp" line="319"/>
         <source>Show In Folder</source>
-        <translation>Afficher le dossier</translation>
+        <translation>Afficher dans le dossier</translation>
     </message>
     <message>
         <location filename="transferwindow.cpp" line="320"/>
@@ -1954,7 +1956,7 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="transferwindow.cpp" line="410"/>
         <source>/sec</source>
-        <translation>/ Sec</translation>
+        <translation>/ sec</translation>
     </message>
 </context>
 <context>
@@ -1982,7 +1984,7 @@ LAN Messenger fonctionne essentiellement sur chaque plate-forme de bureau popula
     <message>
         <location filename="updatewindow.cpp" line="160"/>
         <source>You have the latest version of %1.</source>
-        <translation>Vous avez la dernière version du %1.</translation>
+        <translation>Vous avez la dernière version de %1.</translation>
     </message>
 </context>
 <context>
